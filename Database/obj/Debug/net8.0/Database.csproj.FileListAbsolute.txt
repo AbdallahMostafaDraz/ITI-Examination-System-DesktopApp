@@ -1,0 +1,14 @@
+E:\ITI\SQL\ITIExaminationSystem\Database\bin\Debug\net8.0\Database.deps.json
+E:\ITI\SQL\ITIExaminationSystem\Database\bin\Debug\net8.0\Database.runtimeconfig.json
+E:\ITI\SQL\ITIExaminationSystem\Database\bin\Debug\net8.0\Database.dll
+E:\ITI\SQL\ITIExaminationSystem\Database\bin\Debug\net8.0\Database.pdb
+E:\ITI\SQL\ITIExaminationSystem\Database\obj\Debug\net8.0\Database.csproj.AssemblyReference.cache
+E:\ITI\SQL\ITIExaminationSystem\Database\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\SQL\ITIExaminationSystem\Database\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+E:\ITI\SQL\ITIExaminationSystem\Database\obj\Debug\net8.0\Database.AssemblyInfo.cs
+E:\ITI\SQL\ITIExaminationSystem\Database\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+E:\ITI\SQL\ITIExaminationSystem\Database\obj\Debug\net8.0\Database.dll
+E:\ITI\SQL\ITIExaminationSystem\Database\obj\Debug\net8.0\refint\Database.dll
+E:\ITI\SQL\ITIExaminationSystem\Database\obj\Debug\net8.0\Database.pdb
+E:\ITI\SQL\ITIExaminationSystem\Database\obj\Debug\net8.0\Database.genruntimeconfig.cache
+E:\ITI\SQL\ITIExaminationSystem\Database\obj\Debug\net8.0\ref\Database.dll

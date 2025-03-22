@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ITI\\SQL\\ITIExaminationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C72C2AC-A686-44C8-8136-8A0B703F9F1E}|Database\\Database.csproj|e:\\iti\\sql\\itiexaminationsystem\\database\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C72C2AC-A686-44C8-8136-8A0B703F9F1E}|Database\\Database.csproj|solutionrelative:database\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62925B3-547F-4742-A4F6-401746B899CC}|App\\App.csproj|e:\\iti\\sql\\itiexaminationsystem\\app\\studentfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D62925B3-547F-4742-A4F6-401746B899CC}|App\\App.csproj|solutionrelative:app\\studentfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62925B3-547F-4742-A4F6-401746B899CC}|App\\App.csproj|e:\\iti\\sql\\itiexaminationsystem\\app\\studentfrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D62925B3-547F-4742-A4F6-401746B899CC}|App\\App.csproj|solutionrelative:app\\studentfrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "E:\\ITI\\SQL\\ITIExaminationSystem\\Database\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Database\\Data\\AppDBContext.cs",
+              "ToolTip": "E:\\ITI\\SQL\\ITIExaminationSystem\\Database\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "Database\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwDAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T11:54:20.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentFRM.cs [Design]",
+              "DocumentMoniker": "E:\\ITI\\SQL\\ITIExaminationSystem\\App\\StudentFRM.cs",
+              "RelativeDocumentMoniker": "App\\StudentFRM.cs",
+              "ToolTip": "E:\\ITI\\SQL\\ITIExaminationSystem\\App\\StudentFRM.cs [Design]",
+              "RelativeToolTip": "App\\StudentFRM.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T13:14:31.781Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentFRM.Designer.cs",
+              "DocumentMoniker": "E:\\ITI\\SQL\\ITIExaminationSystem\\App\\StudentFRM.Designer.cs",
+              "RelativeDocumentMoniker": "App\\StudentFRM.Designer.cs",
+              "ToolTip": "E:\\ITI\\SQL\\ITIExaminationSystem\\App\\StudentFRM.Designer.cs",
+              "RelativeToolTip": "App\\StudentFRM.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T13:14:26.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
